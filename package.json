@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-new-collections-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" }
+}
